@@ -67,9 +67,6 @@ username	user	//*[@id="username"]	#username
 password	pass	//*[@name="pass"]	input[name="pass"]
 
 📂 Project Structure
-css
-Copy
-Edit
 RealativePaths/
 ├── src/
 │   └── main/
@@ -81,6 +78,8 @@ RealativePaths/
 │       └── resources/
 ├── pom.xml
 └── README.md
+
+
 🙋‍♂️ Author
 Abhishek Patil
 https://github.com/Patil-Abhishek23
