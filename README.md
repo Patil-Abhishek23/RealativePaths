@@ -66,21 +66,9 @@ ID	Name	XPath	CSS Selector
 username	user	//*[@id="username"]	#username
 password	pass	//*[@name="pass"]	input[name="pass"]
 
-📂 Project Structure
-RealativePaths/
-├── src/
-│   └── main/
-│       ├── java/
-│       │   └── com.example.selector/
-│       │       ├── controller/
-│       │       ├── service/
-│       │       └── util/
-│       └── resources/
-├── pom.xml
-└── README.md
-
-
 🙋‍♂️ Author
+
 Abhishek Patil
+
 https://github.com/Patil-Abhishek23
 
